@@ -2,5 +2,10 @@ The projects contains some of my notes.
 
 you can browse the notebooks using the nbviewer of jupyter.org:
 * http://nbviewer.jupyter.org/github/svenmayer/notebooks
+
+Sine estimator
 * http://nbviewer.jupyter.org/github/svenmayer/notebooks/blob/master/sine_estimator.ipynb
+
+Shortest path on a gameboard
+* http://nbviewer.jupyter.org/github/svenmayer/notebooks/blob/master/short_path.ipynb
 
